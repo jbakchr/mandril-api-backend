@@ -3,6 +3,10 @@ import json
 
 from fastapi import FastAPI
 
+from db.db import create_database
+
+create_database()
+
 app = FastAPI()
 
 
