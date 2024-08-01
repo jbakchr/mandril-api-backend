@@ -4,9 +4,17 @@ import sqlite3
 
 from fastapi import FastAPI
 
-from db.db import create_database
+from db.db import create_database, seed_database
 
 create_database()
+seed_database()
+
+# con = sqlite3.connect("mandril.db")
+# cur = con.cursor()
+# res = cur.execute("SELECT * FROM characters")
+# for x in res.fetchall():
+#     print(x)
+# con.close()
 
 app = FastAPI()
 
