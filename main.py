@@ -1,5 +1,6 @@
 from typing import Union
 import json
+import sqlite3
 
 from fastapi import FastAPI
 
@@ -22,6 +23,6 @@ def read_item(item_id: int, q: Union[str, None] = None):
 
 @app.get("/characters")
 def read_item():
-    with open("./characters.json") as f:
+    with open("./data/characters.json") as f:
         characters = json.loads(f.read())
     return characters
