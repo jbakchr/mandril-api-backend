@@ -46,15 +46,15 @@ def get_all_actors():
     return actors
 
 
-@app.get("/actors/{id}")
-def get_actor_by_id(id: int):
-    actor = get_actor_by_actor_id(id)
+@app.get("/actors/{actor_id}")
+def get_actor_by_id(actor_id: int):
+    actor = get_actor_by_actor_id(actor_id)
     return actor
 
 
-@app.get("/actors/{id}/characters")
-def actor_plays_characters(id: int):
-    actor_characters = get_actor_characters(id)
+@app.get("/actors/{actor_id}/characters")
+def actor_plays_characters(actor_id: int):
+    actor_characters = get_actor_characters(actor_id)
     return actor_characters
 
 
