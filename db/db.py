@@ -130,8 +130,29 @@ def get_actors():
 
     result = cur.fetchall()
 
+    con.close()
+
     actors = []
     for actor in result:
         actors.append({"actor_id": actor[0], "actor_name": actor[1]})
 
     return actors
+
+
+def get_actor_by_actor_id(actor_id: int):
+    con = sqlite3.connect("mandril.db")
+    cur = con.cursor()
+
+    sql = f"SELECT * FROM actors WHERE actor_id = {int(actor_id)}"
+
+    cur.execute(sql)
+
+    result = cur.fetchall()
+
+    con.close()
+
+    actor = None
+    for value in result:
+        actor = {"actor_id": value[0], "actor_name": value[1]}
+
+    return actor
