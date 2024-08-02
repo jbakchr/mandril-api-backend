@@ -20,6 +20,10 @@ def create_database():
 
 
 def seed_database():
+    seed_characters()
+
+
+def seed_characters():
     con = sqlite3.connect("mandril.db")
     cur = con.cursor()
 
