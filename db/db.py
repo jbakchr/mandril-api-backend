@@ -151,6 +151,50 @@ def get_character_by_character_id(character_id: int) -> dict:
     return character
 
 
+def get_character_actor(character_id: int):
+    con = sqlite3.connect("mandril.db")
+    cur = con.cursor()
+
+    sql = f"""
+            SELECT
+                c.character_id, c.character_name, c.character_desc, a.actor_id, a.actor_name
+            FROM
+                characters AS c
+            INNER JOIN
+                character_actor AS ca
+            ON
+                c.character_id = ca.character_id
+            INNER JOIN
+                actors AS a
+            ON
+                ca.actor_id = a.actor_id
+            WHERE
+                c.character_id = {character_id}
+        """
+
+    cur.execute(sql)
+
+    result = cur.fetchall()
+
+    con.close()
+
+    character_actor = {
+        "character_id": character_id,
+        "character_name": "",
+        "character_desc": "",
+        "actors": [],
+    }
+
+    for el in result:
+        character_actor["character_name"] = el[1]
+        character_actor["character_desc"] = el[2]
+
+        actor = {"actor_id": el[3], "actor_name": el[4]}
+        character_actor["actors"].append(actor)
+
+    return character_actor
+
+
 def get_actors():
     con = sqlite3.connect("mandril.db")
     cur = con.cursor()
