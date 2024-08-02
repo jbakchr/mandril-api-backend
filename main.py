@@ -12,6 +12,7 @@ from db.db import (
     get_actors,
     get_actor_by_actor_id,
     get_character_actor,
+    get_actor_characters,
 )
 
 create_database()
@@ -48,3 +49,9 @@ def get_all_actors():
 def get_actor_by_id(id: int):
     actor = get_actor_by_actor_id(id)
     return actor
+
+
+@app.get("/actors/{id}/characters")
+def actor_plays_characters(id: int):
+    actor_characters = get_actor_characters(id)
+    return actor_characters
