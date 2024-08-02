@@ -362,3 +362,21 @@ def get_episodes_season(season: int):
         episodes.append(episode)
 
     return episodes
+
+
+def get_episode_by_season(season: int, episode: int):
+    print("season:", season)
+    print("episode:", episode)
+    con = sqlite3.connect("mandril.db")
+    cur = con.cursor()
+
+    sql = f"SELECT * FROM episodes WHERE season = {season} AND episode = {episode}"
+
+    cur.execute(sql)
+
+    result = cur.fetchall()
+    print(result)
+
+    con.close()
+
+    return {"episode_id": result[0][0], "season": result[0][1], "episode": result[0][2]}
