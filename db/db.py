@@ -323,3 +323,22 @@ def get_actor_characters(actor_id: int):
         actor_characters["characters"].append(character)
 
     return actor_characters
+
+
+def get_all_episodes():
+    con = sqlite3.connect("mandril.db")
+    cur = con.cursor()
+
+    cur.execute("SELECT * FROM episodes")
+
+    result = cur.fetchall()
+
+    con.close()
+
+    episodes = []
+    for episode in result:
+        episodes.append(
+            {"episode_id": episode[0], "season": episode[1], "episode": episode[2]}
+        )
+
+    return episodes
