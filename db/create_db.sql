@@ -15,7 +15,6 @@ CREATE TABLE IF NOT EXISTS actors
 
 CREATE TABLE IF NOT EXISTS character_actor
 (
-  id INTEGER NOT NULL PRIMARY KEY AUTOINCREMENT,
   character_id INTEGER NOT NULL,
   actor_id INTEGER NOT NULL,
   FOREIGN KEY (character_id) REFERENCES characters(character_id),
