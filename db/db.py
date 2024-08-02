@@ -44,3 +44,25 @@ def seed_database():
 
         con.commit()
         con.close()
+
+
+def get_characters():
+    con = sqlite3.connect("mandril.db")
+    cur = con.cursor()
+
+    cur.execute("SELECT * FROM characters")
+
+    characters = cur.fetchall()
+
+    con.close()
+
+    res_json = []
+    for character in characters:
+        item = {
+            "character_id": character[0],
+            "character_name": character[1],
+            "character_desc": character[2],
+        }
+        res_json.append(item)
+
+    return res_json
