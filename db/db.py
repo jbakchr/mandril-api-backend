@@ -342,3 +342,23 @@ def get_all_episodes():
         )
 
     return episodes
+
+
+def get_episodes_season(season: int):
+    con = sqlite3.connect("mandril.db")
+    cur = con.cursor()
+
+    sql = f"SELECT * FROM episodes WHERE season = {season}"
+
+    cur.execute(sql)
+
+    result = cur.fetchall()
+
+    con.close()
+
+    episodes = []
+    for el in result:
+        episode = {"episode_id": el[0], "season": el[1], "episode": el[2]}
+        episodes.append(episode)
+
+    return episodes
