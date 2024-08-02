@@ -66,3 +66,26 @@ def get_characters():
         res_json.append(item)
 
     return res_json
+
+
+def get_character_by_character_id(character_id: int) -> dict:
+    con = sqlite3.connect("mandril.db")
+    cur = con.cursor()
+
+    sql = f"SELECT * FROM characters WHERE character_id = {int(character_id)}"
+
+    cur.execute(sql)
+
+    res = cur.fetchall()
+
+    con.close()
+
+    character = None
+    for value in res:
+        character = {
+            "character_id": value[0],
+            "character_name": value[1],
+            "character_desc": value[2],
+        }
+
+    return character
