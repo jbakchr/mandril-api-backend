@@ -28,3 +28,11 @@ CREATE TABLE IF NOT EXISTS episodes
   episode INTEGER NOT NULL,
   PRIMARY KEY (episode_id)
 );
+
+CREATE TABLE IF NOT EXISTS character_episode
+(
+  character_id INTEGER NOT NULL,
+  episode_id INTEGER NOT NULL,
+  FOREIGN KEY (character_id) REFERENCES characters(character_id),
+  FOREIGN KEY (episode_id) REFERENCES episodes(episode_id)
+);
