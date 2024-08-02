@@ -23,6 +23,14 @@ seed_database()
 app = FastAPI()
 
 
+@app.get("/")
+def mandril_api():
+    return {
+        "velkomst": "Hey hummersuppe .. Velkommen til Mandril API! Dokumentation for dette API kan findes via nedenstående link:",
+        "link": "https://mandril-api-backend.onrender.com/docs",
+    }
+
+
 @app.get("/characters")
 def get_all_characters():
     characters = get_characters()
