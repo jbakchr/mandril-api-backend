@@ -21,6 +21,7 @@ def create_database():
 
 def seed_database():
     seed_characters()
+    seed_actors()
 
 
 def seed_characters():
@@ -45,9 +46,35 @@ def seed_characters():
         """
 
         cur.executemany(sql, characters)
-
         con.commit()
-        con.close()
+
+    con.close()
+
+
+def seed_actors():
+    con = sqlite3.connect("mandril.db")
+    cur = con.cursor()
+
+    # Check if database has not been seeded
+    sql = "SELECT * FROM actors"
+
+    res = cur.execute(sql)
+
+    if len(res.fetchall()) == 0:
+        cur_dir = os.getcwd()
+
+        with open(os.path.join(cur_dir, "data", "actors.json")) as f:
+            actors = json.loads(f.read())
+
+        sql = """
+          INSERT INTO actors
+          VALUES (:actor_id, :actor_name)
+        """
+
+        cur.executemany(sql, actors)
+        con.commit()
+
+    con.close()
 
 
 def get_characters():
