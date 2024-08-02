@@ -120,3 +120,18 @@ def get_character_by_character_id(character_id: int) -> dict:
         }
 
     return character
+
+
+def get_actors():
+    con = sqlite3.connect("mandril.db")
+    cur = con.cursor()
+
+    cur.execute("SELECT * FROM actors")
+
+    result = cur.fetchall()
+
+    actors = []
+    for actor in result:
+        actors.append({"actor_id": actor[0], "actor_name": actor[1]})
+
+    return actors
