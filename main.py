@@ -16,6 +16,7 @@ from db.db import (
     get_all_episodes,
     get_episodes_season,
     get_episode_by_season,
+    get_episodes_season_characters,
 )
 
 create_database()
@@ -77,6 +78,12 @@ def get_episodes():
 @app.get("/episodes/{season}")
 def get_episodes_by_season(season: int):
     episodes = get_episodes_season(season)
+    return episodes
+
+
+@app.get("/episodes/{season}/characters")
+def get_characters_in_season(season: int):
+    episodes = get_episodes_season_characters(season)
     return episodes
 
 

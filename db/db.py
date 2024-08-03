@@ -364,9 +364,49 @@ def get_episodes_season(season: int):
     return episodes
 
 
+def get_episodes_season_characters(season: int):
+    con = sqlite3.connect("mandril.db")
+    cur = con.cursor()
+
+    sql = f"""
+            SELECT
+                e.episode_id, e.season, e.episode, c.character_id, c.character_name, c.character_desc
+            FROM 
+                episodes AS e
+            INNER JOIN
+                character_episode AS ce
+            ON
+                e.episode_id = ce.episode_id
+            INNER JOIN
+                characters AS c
+            ON
+                ce.character_id = c.character_id
+            WHERE
+                e.season = {season}
+        """
+
+    cur.execute(sql)
+
+    result = cur.fetchall()
+
+    episodes = []
+    for el in result:
+        episode = {
+            "episode_id": el[0],
+            "season": el[1],
+            "episode": el[2],
+            "character_id": el[3],
+            "character_name": el[4],
+            "character_desc": el[5],
+        }
+        episodes.append(episode)
+
+    con.close()
+
+    return episodes
+
+
 def get_episode_by_season(season: int, episode: int):
-    print("season:", season)
-    print("episode:", episode)
     con = sqlite3.connect("mandril.db")
     cur = con.cursor()
 
@@ -375,7 +415,6 @@ def get_episode_by_season(season: int, episode: int):
     cur.execute(sql)
 
     result = cur.fetchall()
-    print(result)
 
     con.close()
 
