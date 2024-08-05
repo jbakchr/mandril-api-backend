@@ -486,3 +486,27 @@ def get_episodes_season_episode_characters(season: int, episode: int):
         episodes.append(episode)
 
     return episodes
+
+
+def get_program_overviews():
+    con = sqlite3.connect("mandril.db")
+    cur = con.cursor()
+
+    cur.execute("SELECT * FROM program_overviews")
+
+    result = cur.fetchall()
+
+    con.close()
+
+    overviews = []
+    for overview in result:
+        overviews.append(
+            {
+                "sequence": overview[0],
+                "time": overview[1],
+                "overview": overview[2],
+                "episode_id": overview[3],
+            }
+        )
+
+    return overviews
