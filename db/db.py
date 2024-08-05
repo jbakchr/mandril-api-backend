@@ -510,3 +510,29 @@ def get_program_overviews():
         )
 
     return overviews
+
+
+def get_program_overview_from_episode_id(episode_id: int):
+    con = sqlite3.connect("mandril.db")
+    cur = con.cursor()
+
+    sql = f"SELECT * FROM program_overviews WHERE episode_id = {episode_id}"
+
+    cur.execute(sql)
+
+    result = cur.fetchall()
+
+    con.close()
+
+    overviews = []
+
+    for overview in result:
+        item = {
+            "sequence": overview[0],
+            "time": overview[1],
+            "overview": overview[2],
+            "episode_id": overview[3],
+        }
+        overviews.append(item)
+
+    return overviews
