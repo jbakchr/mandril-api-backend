@@ -1,0 +1,2239 @@
+[
+  {
+    "sequence": 1,
+    "time": "23:30",
+    "overview": "En programoversigt",
+    "episode_id": 1
+  },
+  {
+    "sequence": 2,
+    "time": "23:31",
+    "overview": "Et eller andet lort",
+    "episode_id": 1
+  },
+  {
+    "sequence": 3,
+    "time": "23:35",
+    "overview": "Den n\u00e6stsidste mohikaner (indianer)",
+    "episode_id": 1
+  },
+  {
+    "sequence": 4,
+    "time": "23:37",
+    "overview": "Zenta kommer fra TV DK og vasker og plejer en \u00e6ldre medborger",
+    "episode_id": 1
+  },
+  {
+    "sequence": 5,
+    "time": "23:40",
+    "overview": "Margit Brandt viser en nederdel fra Galten T\u00f8mmerhandel",
+    "episode_id": 1
+  },
+  {
+    "sequence": 6,
+    "time": "23:45",
+    "overview": "Bygge balletdanser af husholdningsaffald",
+    "episode_id": 1
+  },
+  {
+    "sequence": 7,
+    "time": "23:47",
+    "overview": "Rekordfors\u00f8g her i studiet (?)",
+    "episode_id": 1
+  },
+  {
+    "sequence": 8,
+    "time": "23:49",
+    "overview": "To Kenyanere steger en Riverdancer",
+    "episode_id": 1
+  },
+  {
+    "sequence": 9,
+    "time": "23:55",
+    "overview": "H\u00f8jdepunktet David Bowie boxer ni omgange med Andrea Vagn Jensen",
+    "episode_id": 1
+  },
+  {
+    "sequence": 10,
+    "time": "24:00",
+    "overview": "Tak for iaften!",
+    "episode_id": 1
+  },
+  {
+    "sequence": 1,
+    "time": "23:30",
+    "overview": "L\u00e6se forkert programoversigt",
+    "episode_id": 2
+  },
+  {
+    "sequence": 2,
+    "time": "23:31",
+    "overview": "Kig i kameraet og sig Kamikaze TV",
+    "episode_id": 2
+  },
+  {
+    "sequence": 3,
+    "time": "23:32",
+    "overview": "Kendtes s\u00f8skende",
+    "episode_id": 2
+  },
+  {
+    "sequence": 4,
+    "time": "23:37",
+    "overview": "Kommer en nazist bygget af M&M ind og danser square dance",
+    "episode_id": 2
+  },
+  {
+    "sequence": 5,
+    "time": "23:40",
+    "overview": "Det ukendte medlem af Run DMC ringer og spiller alt hvad Lene Siel har indspillet p\u00e5 trombone",
+    "episode_id": 2
+  },
+  {
+    "sequence": 6,
+    "time": "23:45",
+    "overview": "Ugh! (indianer med mere",
+    "episode_id": 2
+  },
+  {
+    "sequence": 7,
+    "time": "23:50",
+    "overview": "Marlene Schwartz sliber Allan Simonsens rullesk\u00f8jter",
+    "episode_id": 2
+  },
+  {
+    "sequence": 8,
+    "time": "23:55",
+    "overview": "Jeg anmelder al den mad Kipketer har spist i '98",
+    "episode_id": 2
+  },
+  {
+    "sequence": 9,
+    "time": "24:00",
+    "overview": "Tak for idag",
+    "episode_id": 2
+  },
+  {
+    "sequence": 1,
+    "time": "23:30",
+    "overview": "Sonja Oppenhagen sluger 12 D-mark",
+    "episode_id": 3
+  },
+  {
+    "sequence": 2,
+    "time": "23:35",
+    "overview": "Dr\u00e6sinebanden voldtager og skamferer Aladin",
+    "episode_id": 3
+  },
+  {
+    "sequence": 3,
+    "time": "23:40",
+    "overview": "Talentkonkurrence",
+    "episode_id": 3
+  },
+  {
+    "sequence": 4,
+    "time": "23:55",
+    "overview": "Vi ser p\u00e5 v\u00e5ben",
+    "episode_id": 3
+  },
+  {
+    "sequence": 5,
+    "time": "23:56",
+    "overview": "Lois Pasteurs s\u00f8mandstr\u00f8je bliver vasket",
+    "episode_id": 3
+  },
+  {
+    "sequence": 6,
+    "time": "23:56:30",
+    "overview": "To belgiske wafler underviser i Judo",
+    "episode_id": 3
+  },
+  {
+    "sequence": 7,
+    "time": "23:56:35",
+    "overview": "Sonja Oppenhagen skider 1200 Pfenning",
+    "episode_id": 3
+  },
+  {
+    "sequence": 8,
+    "time": "24:00",
+    "overview": "Tak for iaften",
+    "episode_id": 3
+  },
+  {
+    "sequence": 1,
+    "time": "23:28",
+    "overview": "Pas p\u00e5 du er lidt tidlig p\u00e5 den",
+    "episode_id": 4
+  },
+  {
+    "sequence": 2,
+    "time": "23:30",
+    "overview": "Godaften, velkommen i alle kanaler",
+    "episode_id": 4
+  },
+  {
+    "sequence": 3,
+    "time": "23:31",
+    "overview": "Noget med tusch",
+    "episode_id": 4
+  },
+  {
+    "sequence": 4,
+    "time": "23:34",
+    "overview": "Magi og granit",
+    "episode_id": 4
+  },
+  {
+    "sequence": 5,
+    "time": "23:25",
+    "overview": "Sysser K\u00f6nig \u00e6lter bagl\u00e6ns",
+    "episode_id": 4
+  },
+  {
+    "sequence": 6,
+    "time": "23:30",
+    "overview": "Vi danser med el (Marcus Elberling opf\u00f8rer Angola som syngespil)",
+    "episode_id": 4
+  },
+  {
+    "sequence": 7,
+    "time": "23:33",
+    "overview": "S\u00e5 er der afro-quiz",
+    "episode_id": 4
+  },
+  {
+    "sequence": 8,
+    "time": "23:35",
+    "overview": "Maiken Wex\u00f8 kommenterer fraklip fra Edinburgh Tattoo",
+    "episode_id": 4
+  },
+  {
+    "sequence": 9,
+    "time": "23:40",
+    "overview": "Beige - farve eller f\u00e6nomen?",
+    "episode_id": 4
+  },
+  {
+    "sequence": 10,
+    "time": "23:42",
+    "overview": "Genudsendelse af programoversigten",
+    "episode_id": 4
+  },
+  {
+    "sequence": 11,
+    "time": "23:50",
+    "overview": "Et l\u00f8g",
+    "episode_id": 4
+  },
+  {
+    "sequence": 12,
+    "time": "23:55",
+    "overview": "L\u00f8be t\u00f8r for id\u00e9er",
+    "episode_id": 4
+  },
+  {
+    "sequence": 13,
+    "time": "24:00",
+    "overview": "Tak for iaften",
+    "episode_id": 4
+  },
+  {
+    "sequence": 1,
+    "time": "23:30",
+    "overview": "Sige navnet Finn Laudrup",
+    "episode_id": 5
+  },
+  {
+    "sequence": 2,
+    "time": "23:32",
+    "overview": "Folde Ballerupcentret i staniol",
+    "episode_id": 5
+  },
+  {
+    "sequence": 3,
+    "time": "23:35",
+    "overview": "Drille en h\u00f8j fyr fra Ceylon",
+    "episode_id": 5
+  },
+  {
+    "sequence": 4,
+    "time": "23:40",
+    "overview": "Mike Tramp drikker fyringsolie",
+    "episode_id": 5
+  },
+  {
+    "sequence": 5,
+    "time": "23:45",
+    "overview": "Tema p\u00e5 DR2",
+    "episode_id": 5
+  },
+  {
+    "sequence": 6,
+    "time": "23:46",
+    "overview": "Cecilie Fr\u00f8kj\u00e6r mader 19 \u00e5r gammel sengev\u00e6der",
+    "episode_id": 5
+  },
+  {
+    "sequence": 7,
+    "time": "23:50",
+    "overview": "Mike Oldfield henrettes ved kunstig befrugtning med h\u00f8vl",
+    "episode_id": 5
+  },
+  {
+    "sequence": 8,
+    "time": "23:55",
+    "overview": "Kim Bodnia k\u00f8ber hele gardinbussen",
+    "episode_id": 5
+  },
+  {
+    "sequence": 9,
+    "time": "24:00",
+    "overview": "H\u00f8jdepunktet: Et sl\u00f8ret Polfoto fra Lasse Lunderskovs homobryllup i Dronningm\u00f8lle",
+    "episode_id": 5
+  },
+  {
+    "sequence": 1,
+    "time": "23:30",
+    "overview": "Euroman-l\u00e6ser vendes i hvedemel og paneres",
+    "episode_id": 6
+  },
+  {
+    "sequence": 2,
+    "time": "23:35",
+    "overview": "Side 9-pige med gulsot",
+    "episode_id": 6
+  },
+  { "sequence": 3, "time": "23:49", "overview": "Talentshow", "episode_id": 6 },
+  {
+    "sequence": 4,
+    "time": "23:41",
+    "overview": "Hest der kan l\u00e6se runer",
+    "episode_id": 6
+  },
+  {
+    "sequence": 5,
+    "time": "23:45",
+    "overview": "Elton kommer og kastrerer Kim Behnke med slalomski",
+    "episode_id": 6
+  },
+  {
+    "sequence": 6,
+    "time": "23:50",
+    "overview": "Jesper Kisum fra TV Danmark driller h\u00f8j man fra Ceylon",
+    "episode_id": 6
+  },
+  {
+    "sequence": 7,
+    "time": "23:55",
+    "overview": "Karen Blixen-efterligning fort\u00e6ller om gocartens historie",
+    "episode_id": 6
+  },
+  {
+    "sequence": 8,
+    "time": "24:00",
+    "overview": "Hat, der g\u00e5r med hat",
+    "episode_id": 6
+  },
+  {
+    "sequence": 1,
+    "time": "23:30",
+    "overview": "Danse electric boogie med en narkoman",
+    "episode_id": 7
+  },
+  {
+    "sequence": 2,
+    "time": "23:35",
+    "overview": "Kvist l\u00e6ser gruk",
+    "episode_id": 7
+  },
+  {
+    "sequence": 3,
+    "time": "23:36",
+    "overview": "Pjerrot tungekysser to gamle frihedsk\u00e6mpere",
+    "episode_id": 7
+  },
+  {
+    "sequence": 4,
+    "time": "23:40",
+    "overview": "Cowboy stj\u00e6ler en gedde",
+    "episode_id": 7
+  },
+  {
+    "sequence": 5,
+    "time": "23:41",
+    "overview": "Fris\u00f8r Tage Frandsen kommer og t\u00e6ver alle medvirkende i Matador",
+    "episode_id": 7
+  },
+  {
+    "sequence": 6,
+    "time": "23:45",
+    "overview": "Svensk petanque-kommentator forbl\u00f8der p\u00e5 crepepapir",
+    "episode_id": 7
+  },
+  {
+    "sequence": 7,
+    "time": "23:50",
+    "overview": "Dukkef\u00f8rer fra Fyn drikker Ole Stephensens morgenurin (live)",
+    "episode_id": 7
+  },
+  {
+    "sequence": 8,
+    "time": "23:55",
+    "overview": "Goldie Hawn-efterligning ringer til Tyskland",
+    "episode_id": 7
+  },
+  {
+    "sequence": 9,
+    "time": "24:00",
+    "overview": "Danse electric boogie med en ?",
+    "episode_id": 7
+  },
+  {
+    "sequence": 1,
+    "time": "23:30",
+    "overview": "Mand bygget af maltbolsjer viser rundt p\u00e5 L\u00e6s\u00f8",
+    "episode_id": 8
+  },
+  {
+    "sequence": 2,
+    "time": "23:31",
+    "overview": "Michael Teschl kommer og viser hvordan man staver hans navn og hvorfor",
+    "episode_id": 8
+  },
+  {
+    "sequence": 3,
+    "time": "23:35",
+    "overview": "Robert Jacobsen-skulptur smeltes om til nyttig fjeder",
+    "episode_id": 8
+  },
+  {
+    "sequence": 4,
+    "time": "23:40",
+    "overview": "Puma brevveksler med h\u00f8j mand fra Ceylon",
+    "episode_id": 8
+  },
+  {
+    "sequence": 5,
+    "time": "23:42",
+    "overview": "Per Viking d\u00f8bes \"Kn\u00e6leren\"",
+    "episode_id": 8
+  },
+  {
+    "sequence": 6,
+    "time": "23:45",
+    "overview": "Alfa Romeo-forhandler svarer p\u00e5 sp\u00f8rgsm\u00e5l fra en okapi",
+    "episode_id": 8
+  },
+  {
+    "sequence": 7,
+    "time": "23:46",
+    "overview": "Junkie installerer CD-ROM-drev i en sav",
+    "episode_id": 8
+  },
+  {
+    "sequence": 8,
+    "time": "23:50",
+    "overview": "Cykelrytteren Indurain f\u00e6lder m\u00f8gbusk i sv\u00f8mmehal",
+    "episode_id": 8
+  },
+  {
+    "sequence": 9,
+    "time": "23:55",
+    "overview": "Kirsten Norholt aflives vha. en golden retriever",
+    "episode_id": 8
+  },
+  {
+    "sequence": 10,
+    "time": "23:56",
+    "overview": "Kirsten Norholt genoplives vha. snescooter",
+    "episode_id": 8
+  },
+  {
+    "sequence": 11,
+    "time": "24:00",
+    "overview": "Glaspuster tager dyb ind\u00e5nding",
+    "episode_id": 8
+  },
+  {
+    "sequence": 1,
+    "time": "23:30",
+    "overview": "Flemming Kr\u00f8ll kommer og smuldrer br\u00f8d",
+    "episode_id": 9
+  },
+  {
+    "sequence": 2,
+    "time": "23:35",
+    "overview": "Adolf Hitler kommer og synger Tangokat i duet med Krede fra Puls",
+    "episode_id": 9
+  },
+  {
+    "sequence": 3,
+    "time": "23:36",
+    "overview": "Dansk-amerikaner gnider r\u00e6v ind i duftende olier",
+    "episode_id": 9
+  },
+  {
+    "sequence": 4,
+    "time": "23.39",
+    "overview": "Scooter fremstillet af \u00e6bler v\u00e6lter",
+    "episode_id": 9
+  },
+  {
+    "sequence": 5,
+    "time": "23:40",
+    "overview": "To af medlemmerne af David Bowie lyk\u00f8nsker saftdunk",
+    "episode_id": 9
+  },
+  {
+    "sequence": 6,
+    "time": "23:41",
+    "overview": "Dr\u00e6bertusch fornyer sit repertoire",
+    "episode_id": 9
+  },
+  {
+    "sequence": 7,
+    "time": "23:45",
+    "overview": "Thomas Helmig opfinder gennemsigtig mark",
+    "episode_id": 9
+  },
+  {
+    "sequence": 8,
+    "time": "23:50",
+    "overview": "Rapperen Clemens k\u00f8ber Thomas Ejes mandler",
+    "episode_id": 9
+  },
+  {
+    "sequence": 9,
+    "time": "23:55",
+    "overview": "Dalmatiner begraver mand fra Ceylon (h\u00f8j)",
+    "episode_id": 9
+  },
+  {
+    "sequence": 10,
+    "time": "23:59",
+    "overview": "Jan Magnussen griber stor h\u00e5ndfuld mj\u00f8d",
+    "episode_id": 9
+  },
+  {
+    "sequence": 11,
+    "time": "24:00",
+    "overview": "Svensk revisor synger julen ind",
+    "episode_id": 9
+  },
+  {
+    "sequence": 1,
+    "time": "23:30",
+    "overview": "Klisterm\u00e6rker til alle",
+    "episode_id": 10
+  },
+  {
+    "sequence": 2,
+    "time": "",
+    "overview": "Jens Vejmand vil fremvise et fr\u00f8nnet br\u00e6dt",
+    "episode_id": 10
+  },
+  {
+    "sequence": 3,
+    "time": "23:32",
+    "overview": "Holger Danske v\u00e5gner op og siger: \"Eneb\u00e6rgryde\"",
+    "episode_id": 10
+  },
+  {
+    "sequence": 4,
+    "time": "23:33",
+    "overview": "Debatrunde - emnet er: \"Skaldet - f\u00f8r og nu, tidligere, i fremtiden, om 5 minutter, i en parallelverden, i Helvede og p\u00e5 Hjerl Hede\"",
+    "episode_id": 10
+  },
+  {
+    "sequence": 5,
+    "time": "23:46",
+    "overview": "Stum mand tiltvinger sig adgang til studiet for at sige \"Tak for et godt program\"",
+    "episode_id": 10
+  },
+  {
+    "sequence": 6,
+    "time": "23:56",
+    "overview": "Stum, men us\u00e6dvanligt st\u00e6dig, mand b\u00e6res ud af programmet",
+    "episode_id": 10
+  },
+  {
+    "sequence": 7,
+    "time": "23:57",
+    "overview": "Lars von Trier stiller sp\u00f8rgsm\u00e5lstegn ved sin egen overlegenhed",
+    "episode_id": 10
+  },
+  {
+    "sequence": 8,
+    "time": "23:57:01",
+    "overview": "Lars von Trier stiller op som amerikansk pr\u00e6sidentkandidat",
+    "episode_id": 10
+  },
+  {
+    "sequence": 9,
+    "time": "23:58",
+    "overview": "Bo Bedre-redaktionen bes\u00f8ger Jens Langknivs hul i Daugbjerg Kalkgruber",
+    "episode_id": 10
+  },
+  { "sequence": 10, "time": "24:00", "overview": "Godnat", "episode_id": 10 },
+  {
+    "sequence": 1,
+    "time": "23:30",
+    "overview": "Halfdan Rasmussen kv\u00e6ler nattev\u00e6gter",
+    "episode_id": 11
+  },
+  {
+    "sequence": 2,
+    "time": "23:35",
+    "overview": "Cirkelhuset omdannes til k\u00e6mpe erogen zone for alle borgere",
+    "episode_id": 11
+  },
+  {
+    "sequence": 3,
+    "time": "23:40",
+    "overview": "Tyk mand overnatter i kuffert",
+    "episode_id": 11
+  },
+  {
+    "sequence": 4,
+    "time": "23:45",
+    "overview": "Kastanjer overdrages til \u00f8rredbrug",
+    "episode_id": 11
+  },
+  {
+    "sequence": 5,
+    "time": "23:50",
+    "overview": "Jungledrengen Mowgli k\u00e6ler for salt gr\u00e6ker",
+    "episode_id": 11
+  },
+  {
+    "sequence": 6,
+    "time": "23:57",
+    "overview": "Lars von Trier stiller sp\u00f8rgsm\u00e5lstegn ved sin egen overlegenhed",
+    "episode_id": 11
+  },
+  {
+    "sequence": 7,
+    "time": "23:57:01",
+    "overview": "Lars von Trier stiller op som amerikansk pr\u00e6sidentkandidat",
+    "episode_id": 11
+  },
+  {
+    "sequence": 8,
+    "time": "23:58",
+    "overview": "Bo Bedre-redaktionen bes\u00f8ger Jens Langknivs hul i Daugbjerg Kalkgruber",
+    "episode_id": 11
+  },
+  {
+    "sequence": 9,
+    "time": "23:59",
+    "overview": "Jens Langkniv dr\u00e6ber hele Bo Bedre-redaktionen",
+    "episode_id": 11
+  },
+  {
+    "sequence": 10,
+    "time": "23:59:30",
+    "overview": "Det aller-allersidste nyt",
+    "episode_id": 11
+  },
+  {
+    "sequence": 11,
+    "time": "24:00",
+    "overview": "Casper Christensen kommer ind og former sin albue som Simon Rosenbaums ansigt",
+    "episode_id": 11
+  },
+  {
+    "sequence": 1,
+    "time": "23:30",
+    "overview": "Verdens st\u00f8rste Pjerrot-akvarel",
+    "episode_id": 12
+  },
+  {
+    "sequence": 2,
+    "time": "23:35",
+    "overview": "Biker Jens svinger en gaffel 200 meter over Lisbet Dahls hoved",
+    "episode_id": 12
+  },
+  {
+    "sequence": 3,
+    "time": "23:40",
+    "overview": "Laks ryger herrestor joint",
+    "episode_id": 12
+  },
+  {
+    "sequence": 4,
+    "time": "23:45",
+    "overview": "Bjerringbro Halsforening kommer og br\u00e6kker sig",
+    "episode_id": 12
+  },
+  {
+    "sequence": 5,
+    "time": "23:50",
+    "overview": "Paul Hagen gemmer tulipanl\u00f8g i Thomas Helmigs trailer",
+    "episode_id": 12
+  },
+  {
+    "sequence": 6,
+    "time": "23:55",
+    "overview": "Computerfreak rister vallak, hvis han kan l\u00f8srive sig fra tastaturet",
+    "episode_id": 12
+  },
+  {
+    "sequence": 7,
+    "time": "24:00",
+    "overview": "Per Arnoldi kysser alle dem fra de sk\u00e6gge fiskereklamer",
+    "episode_id": 12
+  },
+  {
+    "sequence": 1,
+    "time": "23:30",
+    "overview": "Svampesamler kommer og sluger et drengebarn",
+    "episode_id": 13
+  },
+  {
+    "sequence": 2,
+    "time": "23:35",
+    "overview": "Mand bygget af stenbiderrogn kommer og viser rundt i Scala",
+    "episode_id": 13
+  },
+  {
+    "sequence": 3,
+    "time": "23:40",
+    "overview": "Senil skorstenfejer kommer her og drejer den lille viser op p\u00e5 19",
+    "episode_id": 13
+  },
+  {
+    "sequence": 4,
+    "time": "23:45",
+    "overview": "Salt gr\u00e6ker kommer og optr\u00e6der i udhus",
+    "episode_id": 13
+  },
+  {
+    "sequence": 5,
+    "time": "23:50",
+    "overview": "Puk Elgaard graves ned i spagnum til halsen",
+    "episode_id": 13
+  },
+  {
+    "sequence": 6,
+    "time": "23:52",
+    "overview": "Mette Lisby kommer herind og parodierer Sara Young",
+    "episode_id": 13
+  },
+  {
+    "sequence": 7,
+    "time": "23:55",
+    "overview": "Jesper Kisum kommer og gemmer en v\u00e5dserviet inde i en Ford Ka",
+    "episode_id": 13
+  },
+  { "sequence": 8, "time": "24:00", "overview": "Lal", "episode_id": 13 },
+  {
+    "sequence": 1,
+    "time": "23:30",
+    "overview": "Tordnende fuld engel r\u00e5ber \"K\u00f8ge\"",
+    "episode_id": 14
+  },
+  {
+    "sequence": 2,
+    "time": "23:35",
+    "overview": "Puk Elgaard saver den svenske St\u00e5lmanden itu",
+    "episode_id": 14
+  },
+  {
+    "sequence": 3,
+    "time": "23:40",
+    "overview": "Grim saks kommer og tvinger g\u00e6st til at r\u00f8re med sig\u00f8jnerguld",
+    "episode_id": 14
+  },
+  {
+    "sequence": 4,
+    "time": "23:45",
+    "overview": "Salt gr\u00e6ker pirrer s\u00f8vng\u00e6nger",
+    "episode_id": 14
+  },
+  {
+    "sequence": 5,
+    "time": "23:50",
+    "overview": "Al Agamis venstre arm udstillet p\u00e5 Den Hirschsprungske Samling",
+    "episode_id": 14
+  },
+  {
+    "sequence": 6,
+    "time": "23:55",
+    "overview": "Krydderiet timian opvarmer f\u00f8r ZZ Top-koncert",
+    "episode_id": 14
+  },
+  {
+    "sequence": 7,
+    "time": "24:00",
+    "overview": "Dansk j\u00e6ger for\u00e6rer narkoman kimono",
+    "episode_id": 14
+  },
+  {
+    "sequence": 1,
+    "time": "23:30",
+    "overview": "Gepard binder Taxa-Mikes sn\u00f8rreb\u00e5nd kun ved tankens kraft",
+    "episode_id": 15
+  },
+  {
+    "sequence": 2,
+    "time": "23:34",
+    "overview": "Unders\u00f8isk eksplosion",
+    "episode_id": 15
+  },
+  {
+    "sequence": 3,
+    "time": "23:40",
+    "overview": "Ayatollah Khomeini fejrer sit comeback med en b\u00f8f kun af peber",
+    "episode_id": 15
+  },
+  {
+    "sequence": 4,
+    "time": "23:34",
+    "overview": "Jesper Gr\u00f8nkj\u00e6r danser erotisk dans med billede af Jens Olaf Jersild",
+    "episode_id": 15
+  },
+  {
+    "sequence": 5,
+    "time": "23:51",
+    "overview": "Satan kommer i studiet og pr\u00e6senterer sin nye duftserie",
+    "episode_id": 15
+  },
+  {
+    "sequence": 6,
+    "time": "00:00",
+    "overview": "Mand kun if\u00f8rt h\u00e5rde hvidevarer siger undskyld",
+    "episode_id": 15
+  },
+  {
+    "sequence": 1,
+    "time": "23:30",
+    "overview": "Knast\u00f8r Kirsten Siggaard vinder Paris-Dakar",
+    "episode_id": 16
+  },
+  {
+    "sequence": 2,
+    "time": "23:35",
+    "overview": "Bill Cosby kommer og finder undskyldning for at g\u00e5",
+    "episode_id": 16
+  },
+  {
+    "sequence": 3,
+    "time": "23:40",
+    "overview": "Kam ler hjerteligt af uhelbredeligt syg sig\u00f8jner",
+    "episode_id": 16
+  },
+  {
+    "sequence": 4,
+    "time": "23:46",
+    "overview": "Regnskoven g\u00e5r amok i sultestrejke",
+    "episode_id": 16
+  },
+  {
+    "sequence": 5,
+    "time": "23:50",
+    "overview": "Sokrates medvirker i Jeopardy! og taber stort til mand fra Horsens",
+    "episode_id": 16
+  },
+  {
+    "sequence": 6,
+    "time": "23:52",
+    "overview": "Udflugt i kano til folketinget bliver aflyst",
+    "episode_id": 16
+  },
+  {
+    "sequence": 7,
+    "time": "23:55",
+    "overview": "Eksil-Kai L\u00f8vring-fans saver i b\u00f8g",
+    "episode_id": 16
+  },
+  {
+    "sequence": 8,
+    "time": "23:58",
+    "overview": "Fordampet vand dukker pludseligt op p\u00e5 teglsten i Skodsborg",
+    "episode_id": 16
+  },
+  {
+    "sequence": 9,
+    "time": "23:59-24:00",
+    "overview": "Hitler kommer og slukker 25000 halogenlamper",
+    "episode_id": 16
+  },
+  {
+    "sequence": 1,
+    "time": "23:30",
+    "overview": "Per Pallesen kommer og stryger alle bl\u00e5 skjorter i universet",
+    "episode_id": 17
+  },
+  {
+    "sequence": 2,
+    "time": "23:35",
+    "overview": "K\u00e6mpe tusch modtager Nobels spritpris",
+    "episode_id": 17
+  },
+  {
+    "sequence": 3,
+    "time": "23:40",
+    "overview": "D\u00f8d v\u00e6gter presser citron ned i Ole Bornedals hals",
+    "episode_id": 17
+  },
+  {
+    "sequence": 4,
+    "time": "23:45",
+    "overview": "Border Salsa konfronterer den gennemkneppede vejrhane",
+    "episode_id": 17
+  },
+  {
+    "sequence": 5,
+    "time": "23:50",
+    "overview": "Shirley Temple-dukke fletter internethat",
+    "episode_id": 17
+  },
+  {
+    "sequence": 6,
+    "time": "23:55",
+    "overview": "Kinamand kommer og omsk\u00e6rer Birthe R\u00f8nn Hornbech",
+    "episode_id": 17
+  },
+  {
+    "sequence": 7,
+    "time": "24:00",
+    "overview": "Salt gr\u00e6ker anklager SID for \u00f8dslen med fin kokain",
+    "episode_id": 17
+  },
+  {
+    "sequence": 1,
+    "time": "23:30",
+    "overview": "Hals f\u00f8lger efter toppolitiker",
+    "episode_id": 18
+  },
+  {
+    "sequence": 2,
+    "time": "23:35",
+    "overview": "Tysk lejesvend set n\u00e6r olivenvogn i Lima",
+    "episode_id": 18
+  },
+  {
+    "sequence": 3,
+    "time": "23:40",
+    "overview": "Thomas Mygind kommer og dr\u00e6ber okse med lim",
+    "episode_id": 18
+  },
+  {
+    "sequence": 4,
+    "time": "23:45",
+    "overview": "Jeg skjuler en kokainp\u00e5virket chimpanse i sk\u00f8det p\u00e5 Lotte Reimar",
+    "episode_id": 18
+  },
+  {
+    "sequence": 5,
+    "time": "23:50",
+    "overview": "Kai L\u00f8vring kommer og tatoverer ordet \"Luftwaffe\" i lysken p\u00e5 Rebecca Br\u00fcel",
+    "episode_id": 18
+  },
+  {
+    "sequence": 6,
+    "time": "23:55",
+    "overview": "Havgal neger vil n\u00f8dlande S-tog",
+    "episode_id": 18
+  },
+  {
+    "sequence": 7,
+    "time": "24:00",
+    "overview": "Mand d\u00f8ber Chris Minh Dokys hat Vermouth",
+    "episode_id": 18
+  },
+  {
+    "sequence": 1,
+    "time": "23:30",
+    "overview": "7-\u00e5rig koncertarrang\u00f8r kommer og drukner sig i hedvin",
+    "episode_id": 19
+  },
+  {
+    "sequence": 2,
+    "time": "23:35",
+    "overview": "Pr\u00e6sentation af ny chokolade med Jens Olaf Jersild-smag",
+    "episode_id": 19
+  },
+  {
+    "sequence": 3,
+    "time": "23:40",
+    "overview": "Billethaj k\u00e6ler med Malta i bademilj\u00f8",
+    "episode_id": 19
+  },
+  {
+    "sequence": 4,
+    "time": "23:45",
+    "overview": "Jane Aamund kommer og k\u00f8ber flervarvet formel 1-giffel",
+    "episode_id": 19
+  },
+  {
+    "sequence": 5,
+    "time": "23:50",
+    "overview": "Mystisk vink\u00f8ber ringforlover sig med partyskinke",
+    "episode_id": 19
+  },
+  {
+    "sequence": 6,
+    "time": "23:55",
+    "overview": "11 buffetter foresl\u00e5r h\u00f8jrevigepligt pr. giro",
+    "episode_id": 19
+  },
+  {
+    "sequence": 7,
+    "time": "24:00",
+    "overview": "Svenneolotta i fr\u00e6kt rekordfors\u00f8g",
+    "episode_id": 19
+  },
+  {
+    "sequence": 1,
+    "time": "23:30",
+    "overview": "M\u00f8ntsamler kommer og bl\u00e6ser fin amfetamin ud over Skalkl\u00e6ser",
+    "episode_id": 20
+  },
+  {
+    "sequence": 2,
+    "time": "23:35:80",
+    "overview": "Ryttere fra Borneo telefaxer Voice-radiov\u00e6rt d\u00f8dstrussel",
+    "episode_id": 20
+  },
+  {
+    "sequence": 3,
+    "time": "23:40",
+    "overview": "Ulla Jessen folder verdens mindste kontinent om til fly",
+    "episode_id": 20
+  },
+  {
+    "sequence": 4,
+    "time": "23:45",
+    "overview": "H\u00e5nd bygget af Samarin uddeler forfriskende lussing",
+    "episode_id": 20
+  },
+  {
+    "sequence": 5,
+    "time": "23:50",
+    "overview": "Cowboyst\u00f8vle med Michael Meyerheim-motiv taler ud",
+    "episode_id": 20
+  },
+  {
+    "sequence": 6,
+    "time": "23:55",
+    "overview": "Drenget vovhund maler portr\u00e6t af hvidvinsdranker",
+    "episode_id": 20
+  },
+  {
+    "sequence": 7,
+    "time": "24:00",
+    "overview": "Silkeabe vinder 40 gylden p\u00e5 at drikke Jimmy Carters morgenurin",
+    "episode_id": 20
+  },
+  {
+    "sequence": 1,
+    "time": "23.30",
+    "overview": "L\u00e5nt hat tvinges p\u00e5 sned af vred rebslager",
+    "episode_id": 21
+  },
+  {
+    "sequence": 2,
+    "time": "23.35",
+    "overview": "Alsidig hippie v\u00e6ver bombetrussel af st\u00e5l",
+    "episode_id": 21
+  },
+  {
+    "sequence": 3,
+    "time": "23.40",
+    "overview": "Lille Palle stikker Pjerrot en figen",
+    "episode_id": 21
+  },
+  {
+    "sequence": 4,
+    "time": "23:45",
+    "overview": "Britt Bendixen arrangerer festlig steppebrand",
+    "episode_id": 21
+  },
+  {
+    "sequence": 5,
+    "time": "23.50",
+    "overview": "Gravh\u00f8j fyldt med blomme i Madeira vinder, lidt overraskende, klassisk revolverduel",
+    "episode_id": 21
+  },
+  {
+    "sequence": 6,
+    "time": "23:55",
+    "overview": "Bl\u00e6ksprutte synger k\u00e6rlighedssange for sig selv i HT-bus",
+    "episode_id": 21
+  },
+  {
+    "sequence": 7,
+    "time": "24.00",
+    "overview": "Desperat testikel tager Fonamedarbejder som gidsel p\u00e5 ubestemt tid",
+    "episode_id": 21
+  },
+  {
+    "sequence": 1,
+    "time": "23:30",
+    "overview": "Rester af marengs fundet i bagagerum fyldt med sne",
+    "episode_id": 22
+  },
+  {
+    "sequence": 2,
+    "time": "23:35",
+    "overview": "Lille b\u00e6lg\u00e6rt finder lykken under grydel\u00e5g",
+    "episode_id": 22
+  },
+  {
+    "sequence": 3,
+    "time": "23:40",
+    "overview": "Fodvorte st\u00e5r bag omfattende snyd med gamle ringbind",
+    "episode_id": 22
+  },
+  {
+    "sequence": 4,
+    "time": "23:45",
+    "overview": "Strax-v\u00e6rt nedk\u00f8ler balletskole",
+    "episode_id": 22
+  },
+  {
+    "sequence": 5,
+    "time": "23:50",
+    "overview": "Polioramt kraftoverf\u00f8ring finder selv hjem",
+    "episode_id": 22
+  },
+  {
+    "sequence": 6,
+    "time": "23:55",
+    "overview": "Mumie s\u00e6lges som sexlsave til rig k\u00f8bmand fra Aldi",
+    "episode_id": 22
+  },
+  {
+    "sequence": 7,
+    "time": "24:00",
+    "overview": "Selvmordsprocenten bland hasseln\u00f8dder halveres",
+    "episode_id": 22
+  },
+  {
+    "sequence": 1,
+    "time": "23:35",
+    "overview": "Alf napper Stanislavski-elev i m\u00e5sen",
+    "episode_id": 23
+  },
+  {
+    "sequence": 2,
+    "time": "23:40",
+    "overview": "Strax-v\u00e6rten Lars Hjortsh\u00f8j sender Kipketer-lerdue med samlejemotiv",
+    "episode_id": 23
+  },
+  {
+    "sequence": 3,
+    "time": "23:45",
+    "overview": "Kinaskak bygget af talg hyldes",
+    "episode_id": 23
+  },
+  {
+    "sequence": 4,
+    "time": "23:50",
+    "overview": "Thomas Eje kommer og panerer 9 meter h\u00f8j skumgummiprinter",
+    "episode_id": 23
+  },
+  {
+    "sequence": 5,
+    "time": "23:55",
+    "overview": "Fotografi af irsk bilforhandler forst\u00f8rres til det latterlige",
+    "episode_id": 23
+  },
+  {
+    "sequence": 6,
+    "time": "24:00",
+    "overview": "Narkoman ringer ind og parodierer konge\u00e5l",
+    "episode_id": 23
+  },
+  {
+    "sequence": 1,
+    "time": "23.30",
+    "overview": "Rocazino-fan forf\u00f8rer Frede Farmand",
+    "episode_id": 24
+  },
+  {
+    "sequence": 2,
+    "time": "23.35",
+    "overview": "Hans Engell kommer og henter en komet",
+    "episode_id": 24
+  },
+  {
+    "sequence": 3,
+    "time": "23.40",
+    "overview": "Isbj\u00f8rn stiller 10 fr\u00e6kke sp\u00f8rgsm\u00e5l til Juventus-spiller",
+    "episode_id": 24
+  },
+  {
+    "sequence": 4,
+    "time": "23.45",
+    "overview": "Glas fyldt med eddike vinder Paris-Dakar",
+    "episode_id": 24
+  },
+  {
+    "sequence": 5,
+    "time": "23.50",
+    "overview": "Phillip Starck overnatter i trug af koks",
+    "episode_id": 24
+  },
+  {
+    "sequence": 6,
+    "time": "23.55",
+    "overview": "Nikotinfinger maser landsholdets maskot",
+    "episode_id": 24
+  },
+  {
+    "sequence": 7,
+    "time": "24.00",
+    "overview": "Komikeren Frank Hvam h\u00e5nes for manglende DVD-afspiller",
+    "episode_id": 24
+  },
+  {
+    "sequence": 1,
+    "time": "23:30",
+    "overview": "Folkets Park overtages af 80 negertudser",
+    "episode_id": 25
+  },
+  {
+    "sequence": 2,
+    "time": "23:33",
+    "overview": "Syg skalp overdrysser antikke kontaktlinser",
+    "episode_id": 25
+  },
+  {
+    "sequence": 3,
+    "time": "23:40",
+    "overview": "Tysken kommer! Tysken kommer!",
+    "episode_id": 25
+  },
+  {
+    "sequence": 4,
+    "time": "23:46",
+    "overview": "Munk pr\u00e6mieres for sniksnak",
+    "episode_id": 25
+  },
+  {
+    "sequence": 5,
+    "time": "23:49",
+    "overview": "\u00c6rgerrig gnu kv\u00e6les i slips",
+    "episode_id": 25
+  },
+  {
+    "sequence": 6,
+    "time": "23:55",
+    "overview": "Elvis kommer i studiet og demonstrerer br\u00f8kregning",
+    "episode_id": 25
+  },
+  {
+    "sequence": 7,
+    "time": "24:00",
+    "overview": "Finderup Lade k\u00f8res med gaffeltruck til New Delhi",
+    "episode_id": 25
+  },
+  {
+    "sequence": 1,
+    "time": "23:30",
+    "overview": "Suspicious Mind danser fr\u00e6k boogie-woogie",
+    "episode_id": 26
+  },
+  {
+    "sequence": 2,
+    "time": "23:35",
+    "overview": "Gult bord omsmeltes til 21 kinadrenge",
+    "episode_id": 26
+  },
+  {
+    "sequence": 3,
+    "time": "23:89",
+    "overview": "Peter Pedal fort\u00e6ller hvorfor han synes Thomas Eje er okay",
+    "episode_id": 26
+  },
+  {
+    "sequence": 4,
+    "time": "23:46",
+    "overview": "Arne Melchior accepterer tilstedev\u00e6relsen af Natotropper p\u00e5 sin ryg",
+    "episode_id": 26
+  },
+  {
+    "sequence": 5,
+    "time": "23:48",
+    "overview": "L\u00f8gnagtig vind kigger ind og siger: \"Klokken er 7:30!\"",
+    "episode_id": 26
+  },
+  {
+    "sequence": 6,
+    "time": "23:56",
+    "overview": "Salt gr\u00e6ker fl\u00e6kker h\u00f8j man fra Ceylon med en lille ananasskive",
+    "episode_id": 26
+  },
+  {
+    "sequence": 7,
+    "time": "24:00",
+    "overview": "Satan falder og sl\u00e5r sig p\u00e5 en pose budding",
+    "episode_id": 26
+  },
+  {
+    "sequence": 1,
+    "time": "23:30",
+    "overview": "M\u00e6slingeramte kaffeb\u00f8nner danser og danser",
+    "episode_id": 27
+  },
+  {
+    "sequence": 2,
+    "time": "23:33",
+    "overview": "Gr\u00e6dende bornholmerur tordner frem i alle meningsm\u00e5linger",
+    "episode_id": 27
+  },
+  {
+    "sequence": 3,
+    "time": "23:36",
+    "overview": "Komikeren Lasse Rimmer er sammen med to piger p\u00e5 \u00e9n gang",
+    "episode_id": 27
+  },
+  {
+    "sequence": 4,
+    "time": "23:77",
+    "overview": "Dv\u00e6rg svitses af elevator af elevator uden gulv",
+    "episode_id": 27
+  },
+  {
+    "sequence": 5,
+    "time": "23:45",
+    "overview": "Drikke m\u00e6lk",
+    "episode_id": 27
+  },
+  {
+    "sequence": 6,
+    "time": "23:55",
+    "overview": "Kvinde f\u00f8der syv kilo karamelrand efter flueknepperi",
+    "episode_id": 27
+  },
+  {
+    "sequence": 7,
+    "time": "23:29",
+    "overview": "Mand uden hoved klemmer 1 lille stykke hindb\u00e6rroulade ned",
+    "episode_id": 27
+  },
+  { "sequence": 8, "time": "24:00", "overview": "?", "episode_id": 27 },
+  {
+    "sequence": 1,
+    "time": "23:30",
+    "overview": "Ypperlig civil\u00f8konom fanget i lerlasagne p\u00e5 ubestemt tid",
+    "episode_id": 28
+  },
+  {
+    "sequence": 2,
+    "time": "23:35",
+    "overview": "Kammerherre masserer lyntog til ukendelighed",
+    "episode_id": 28
+  },
+  {
+    "sequence": 3,
+    "time": "23:40",
+    "overview": "Solvognen atter sat ind p\u00e5 F\u00e5borg-Oslo-ruten",
+    "episode_id": 28
+  },
+  {
+    "sequence": 4,
+    "time": "23:45",
+    "overview": "Vi retter en fejl som opst\u00e5r Kl. 23:49",
+    "episode_id": 28
+  },
+  {
+    "sequence": 5,
+    "time": "23:51",
+    "overview": "Mand uden ben er st\u00e5trolden i 300 \u00e5r",
+    "episode_id": 28
+  },
+  {
+    "sequence": 6,
+    "time": "23:53",
+    "overview": "Usynlig mand bliver blind og r\u00e5ber \"\u00d8v!\" flere gange",
+    "episode_id": 28
+  },
+  {
+    "sequence": 7,
+    "time": "23:57",
+    "overview": "Sportsinteresseret l\u00e6kat bygger alt for stor rumraket",
+    "episode_id": 28
+  },
+  {
+    "sequence": 8,
+    "time": "24:00",
+    "overview": "Lederen af B\u00f8lle-Bobs fanklub f\u00e5r vendt sine negle",
+    "episode_id": 28
+  },
+  {
+    "sequence": 1,
+    "time": "23:30",
+    "overview": "Jes Dorph-Petersen hyldes som en af vor egne",
+    "episode_id": 29
+  },
+  {
+    "sequence": 2,
+    "time": "23:35",
+    "overview": "Omsk\u00e5ret jongl\u00f8r fink\u00e6mmer hat af \u00e6rter",
+    "episode_id": 29
+  },
+  {
+    "sequence": 3,
+    "time": "23:40",
+    "overview": "Andr\u00e9 Lublin overnatter i m\u00e6lkeseng",
+    "episode_id": 29
+  },
+  {
+    "sequence": 4,
+    "time": "23:45",
+    "overview": "Komikeren Lars Hjortsh\u00f8j anmelder \"The Bananashow\"",
+    "episode_id": 29
+  },
+  {
+    "sequence": 5,
+    "time": "23:50",
+    "overview": "Grim stol v\u00e6lter p\u00e5 indk\u00f8bsh\u00f8j",
+    "episode_id": 29
+  },
+  {
+    "sequence": 6,
+    "time": "23:55",
+    "overview": "Papirklipper drukner mand bygget af majsolie",
+    "episode_id": 29
+  },
+  {
+    "sequence": 7,
+    "time": "24:00",
+    "overview": "Gr\u00e5spr\u00e6ngt diskohaj anklager Dan Rachlin for klaustrofobi",
+    "episode_id": 29
+  },
+  {
+    "sequence": 1,
+    "time": "23:00",
+    "overview": "En kam til tonicvand leger fint",
+    "episode_id": 30
+  },
+  {
+    "sequence": 2,
+    "time": "23:35",
+    "overview": "Benedicte Str\u00f8m flytter seks meter h\u00f8j klitoris",
+    "episode_id": 30
+  },
+  {
+    "sequence": 3,
+    "time": "23:40",
+    "overview": "peberfrugt fyldt med s\u00f8lv kr\u00e6ver asyl af b\u00f8rnesygdom",
+    "episode_id": 30
+  },
+  {
+    "sequence": 4,
+    "time": "23:45",
+    "overview": "Papa Bues Jazzband optr\u00e6der i k\u00e6mpe eddikebassin",
+    "episode_id": 30
+  },
+  {
+    "sequence": 5,
+    "time": "23:50",
+    "overview": "Gospelkor \u00e6der antik saddel",
+    "episode_id": 30
+  },
+  {
+    "sequence": 6,
+    "time": "23:55",
+    "overview": "\u00c6ldre medborger kommer og smager p\u00e5 Hitlers uniform",
+    "episode_id": 30
+  },
+  {
+    "sequence": 7,
+    "time": "24:00",
+    "overview": "Dadler, dadler og masser af dadler!",
+    "episode_id": 30
+  },
+  {
+    "sequence": 1,
+    "time": "23:30",
+    "overview": "Langtidsholdbart kamera maner til regn",
+    "episode_id": 31
+  },
+  {
+    "sequence": 2,
+    "time": "23:35",
+    "overview": "Nazism\u00f8lf kommer og sk\u00e6rer i l\u00f8g",
+    "episode_id": 31
+  },
+  {
+    "sequence": 3,
+    "time": "23:40",
+    "overview": "Jesper Klein kysser m\u00f8rt gel\u00e6nder",
+    "episode_id": 31
+  },
+  {
+    "sequence": 4,
+    "time": "23:45",
+    "overview": "Dyngv\u00e5d Lars Daneskov voldtager syg, syg fod",
+    "episode_id": 31
+  },
+  {
+    "sequence": 5,
+    "time": "23:50",
+    "overview": "Karamelfrakke vinder ordduel mod FCK",
+    "episode_id": 31
+  },
+  {
+    "sequence": 6,
+    "time": "23:55",
+    "overview": "Liller bugserer hveps gennem d\u00f8gnkiosk",
+    "episode_id": 31
+  },
+  {
+    "sequence": 7,
+    "time": "24:00",
+    "overview": "Salt gr\u00e6ker splitter husb\u00e5d til atomer",
+    "episode_id": 31
+  },
+  {
+    "sequence": 1,
+    "time": "23:30",
+    "overview": "Glasfiberkind m\u00f8der lussing i forhal",
+    "episode_id": 32
+  },
+  {
+    "sequence": 2,
+    "time": "23:35",
+    "overview": "Cykelmyggen Egon d\u00f8r langt om l\u00e6nge",
+    "episode_id": 32
+  },
+  {
+    "sequence": 3,
+    "time": "23:40",
+    "overview": "Scientologymus leger \"Titte-b\u00f8h\"",
+    "episode_id": 32
+  },
+  {
+    "sequence": 4,
+    "time": "23:45",
+    "overview": "Grim udgave af Eiffelt\u00e5rnet k\u00f8ber valmuehat",
+    "episode_id": 32
+  },
+  {
+    "sequence": 5,
+    "time": "23:50",
+    "overview": "Dusino-v\u00e6rten Peter Hansen kommer og pirker til amfetamindrengen",
+    "episode_id": 32
+  },
+  {
+    "sequence": 6,
+    "time": "23:55",
+    "overview": "Hvem er amfetamindrengen?",
+    "episode_id": 32
+  },
+  {
+    "sequence": 7,
+    "time": "24:00",
+    "overview": "Cassius Clay bager pragtfuld v\u00e6ddersupper...",
+    "episode_id": 32
+  },
+  {
+    "sequence": 1,
+    "time": "23:30",
+    "overview": "Enhj\u00f8rning kommer og fryset\u00f8rrer clockradio",
+    "episode_id": 33
+  },
+  {
+    "sequence": 2,
+    "time": "23:35",
+    "overview": "Mandarin d\u00f8r i blodig dominorekord",
+    "episode_id": 33
+  },
+  {
+    "sequence": 3,
+    "time": "23:40",
+    "overview": "Carsten Fischer neds\u00e6nker sin krop i 900\u00b0 varm tis... igen",
+    "episode_id": 33
+  },
+  {
+    "sequence": 4,
+    "time": "23:45",
+    "overview": "Lilly Broberg kommer og synger om pornofondue",
+    "episode_id": 33
+  },
+  {
+    "sequence": 5,
+    "time": "23:50",
+    "overview": "Mand i latex fletter smukt Ole Stephensen-motiv i pilekviste",
+    "episode_id": 33
+  },
+  {
+    "sequence": 6,
+    "time": "23:55",
+    "overview": "Blodhund finder sexet stork i Unibank",
+    "episode_id": 33
+  },
+  {
+    "sequence": 7,
+    "time": "24:00",
+    "overview": "Skipper bliver ansat p\u00e5 flextid som tysk fotograf",
+    "episode_id": 33
+  },
+  {
+    "sequence": 1,
+    "time": "23:30",
+    "overview": "Anthon Berg vasker bus med marsvin",
+    "episode_id": 34
+  },
+  {
+    "sequence": 2,
+    "time": "23:35",
+    "overview": "Fuld cowboy rustbeskytter sig selv",
+    "episode_id": 34
+  },
+  {
+    "sequence": 3,
+    "time": "23:40",
+    "overview": "Jakob Stegelmann stj\u00e6ler klitoris fra Johnny Logan",
+    "episode_id": 34
+  },
+  {
+    "sequence": 4,
+    "time": "23:45",
+    "overview": "Ecstasy-dolk limer lime p\u00e5 kelimt\u00e6ppe",
+    "episode_id": 34
+  },
+  {
+    "sequence": 5,
+    "time": "23:50",
+    "overview": "Mand fra Als kommer og bygger badstue af saltk\u00f8d",
+    "episode_id": 34
+  },
+  {
+    "sequence": 6,
+    "time": "23:55",
+    "overview": "Helle Dolleris synger om undervandstrav",
+    "episode_id": 34
+  },
+  {
+    "sequence": 7,
+    "time": "24:00",
+    "overview": "Kipketer kommer og viser d\u00f8dsmagnet",
+    "episode_id": 34
+  },
+  {
+    "sequence": 1,
+    "time": "23:30",
+    "overview": "Lala fra Teletubbies kn\u00e6kker Cecilie Fr\u00f8kj\u00e6rs hofte",
+    "episode_id": 35
+  },
+  {
+    "sequence": 2,
+    "time": "23:35:10",
+    "overview": "15 meter h\u00f8j fil salter m\u00f8galter",
+    "episode_id": 35
+  },
+  {
+    "sequence": 3,
+    "time": "23:40",
+    "overview": "Vred hoppe arrangerer Dan Rachlins polterabend",
+    "episode_id": 35
+  },
+  {
+    "sequence": 4,
+    "time": "23:45",
+    "overview": "Bill Gates kommer og skamslikker 20-\u00e5rige Tom Bogs",
+    "episode_id": 35
+  },
+  {
+    "sequence": 5,
+    "time": "23:50",
+    "overview": "Bo Bedre-revser vinder stegt hegn... igen",
+    "episode_id": 35
+  },
+  {
+    "sequence": 6,
+    "time": "23:55",
+    "overview": "Broder Salsa optr\u00e6der med nyt spektakul\u00e6rt nummer",
+    "episode_id": 35
+  },
+  {
+    "sequence": 7,
+    "time": "24:00",
+    "overview": "Bryan Adams omsk\u00e6rer sig med 900 kg tung landskinke",
+    "episode_id": 35
+  },
+  {
+    "sequence": 1,
+    "time": "23:30",
+    "overview": "D\u00f8r fra 1700-tallet angriber Teddy Edelman p\u00e5 Broadway",
+    "episode_id": 36
+  },
+  {
+    "sequence": 2,
+    "time": "23:33",
+    "overview": "Irakisk ko s\u00e6tter sig p\u00e5 den nye Messias",
+    "episode_id": 36
+  },
+  {
+    "sequence": 3,
+    "time": "23:37",
+    "overview": "Dafning spiser croissant og l\u00e6gger op til f\u00f8dek\u00e6dedebat",
+    "episode_id": 36
+  },
+  {
+    "sequence": 4,
+    "time": "23:40",
+    "overview": "Ali Haman finder halvstor sav i Finn N\u00f8rbyg\u00e5rds bukselinning",
+    "episode_id": 36
+  },
+  {
+    "sequence": 5,
+    "time": "23:42",
+    "overview": "Bred vifte af firserhit sparker Preben Heide over kn\u00e6et",
+    "episode_id": 36
+  },
+  {
+    "sequence": 6,
+    "time": "23:43",
+    "overview": "Ulovlig flue fremviser diasbilleder fra K\u00f8lig Kajs mellem\u00f8re",
+    "episode_id": 36
+  },
+  {
+    "sequence": 7,
+    "time": "23:44",
+    "overview": "Palle Str\u00f8m og Den Hellige Gral indst\u00f8bes i den samme sylte",
+    "episode_id": 36
+  },
+  {
+    "sequence": 8,
+    "time": "23:50",
+    "overview": "Sjov sportsdag underholder med spurtst\u00e6rke dv\u00e6rge p\u00e5 gr\u00f8n",
+    "episode_id": 36
+  },
+  {
+    "sequence": 9,
+    "time": "23:55",
+    "overview": "Studiet oversv\u00f8mmes med en blanding af pap og luft",
+    "episode_id": 36
+  },
+  {
+    "sequence": 10,
+    "time": "24:00",
+    "overview": "Cro-magnon-mand danser regnen frem p\u00e5 Aqua-Lenes maveskind",
+    "episode_id": 36
+  },
+  {
+    "sequence": 1,
+    "time": "24:00",
+    "overview": "Medalje af korn smider t\u00f8jet for 7 kroner",
+    "episode_id": 37
+  },
+  {
+    "sequence": 2,
+    "time": "23:33",
+    "overview": "Henning Grove fort\u00e6ller ferrytales fra sin tid som homoseksuel p\u00e5 CatLink-overfarten",
+    "episode_id": 37
+  },
+  {
+    "sequence": 3,
+    "time": "23:37",
+    "overview": "Sm\u00e5sulten pirat tisser p\u00e5 meget lille pind",
+    "episode_id": 37
+  },
+  {
+    "sequence": 4,
+    "time": "23:44",
+    "overview": "Morten Korch-marmelade s\u00e6lges til h\u00f8jestbydende pattedyr",
+    "episode_id": 37
+  },
+  {
+    "sequence": 5,
+    "time": "23:49",
+    "overview": "Gipsklump laver ondskabsfuld parodi p\u00e5 Alex Nyborg Madsen",
+    "episode_id": 37
+  },
+  {
+    "sequence": 6,
+    "time": "23:55:10",
+    "overview": "En milliard gnuer r\u00e6kker tunge af det lille Jesusbarn",
+    "episode_id": 37
+  },
+  {
+    "sequence": 7,
+    "time": "23:59",
+    "overview": "Jesper B\u00e6hrenz leger spookytrold mens folk fra Slagelse pr\u00f8ver at falde i s\u00f8vn!",
+    "episode_id": 37
+  },
+  {
+    "sequence": 1,
+    "time": "23:30",
+    "overview": "Oversavet videospiller begraves levende",
+    "episode_id": 38
+  },
+  {
+    "sequence": 2,
+    "time": "23:31",
+    "overview": "Opsvulmet tunge finder guld i Ivan Pedersens sk\u00f8d",
+    "episode_id": 38
+  },
+  {
+    "sequence": 3,
+    "time": "23:37",
+    "overview": "Gammel k\u00e6lling laver gynge ud af Michael Teschls dr\u00f8bel",
+    "episode_id": 38
+  },
+  {
+    "sequence": 4,
+    "time": "23:45",
+    "overview": "Lille cornflake b\u00f8vser i takt til \"We Are The World\"",
+    "episode_id": 38
+  },
+  {
+    "sequence": 5,
+    "time": "23:53",
+    "overview": "Tryllefeen bag bladet Bo Bedre skider krydsfiner p\u00e5 tid",
+    "episode_id": 38
+  },
+  {
+    "sequence": 6,
+    "time": "23:57",
+    "overview": "Ut\u00e6t pose med h\u00f8rfr\u00f8 farer vild i h\u00f8nseg\u00e5rd",
+    "episode_id": 38
+  },
+  {
+    "sequence": 7,
+    "time": "23:59",
+    "overview": "Serber vinder ludospil vha. en h\u00e5ndgranat",
+    "episode_id": 38
+  },
+  { "sequence": 8, "time": "24:00", "overview": "Godnat", "episode_id": 38 },
+  {
+    "sequence": 1,
+    "time": "23:00",
+    "overview": "Lynl\u00e5s pr\u00f8vesmager Ole Olsens CD-ROM-drev",
+    "episode_id": 39
+  },
+  {
+    "sequence": 2,
+    "time": "23:35",
+    "overview": "Papirkniv kommer og udelukker kiwiforhandler fra fr\u00e6k korundervisning",
+    "episode_id": 39
+  },
+  {
+    "sequence": 3,
+    "time": "23:40",
+    "overview": "Komikeren Lasse Rimmer reddes af Milit\u00e6rpolitiet efter fantomweekend",
+    "episode_id": 39
+  },
+  {
+    "sequence": 4,
+    "time": "23:45",
+    "overview": "Skabet bakkesangerinde limer klitoris fast p\u00e5 skolebus",
+    "episode_id": 39
+  },
+  {
+    "sequence": 5,
+    "time": "23:50",
+    "overview": "Diarr\u00e9ramt lama overmander voldsom melon",
+    "episode_id": 39
+  },
+  {
+    "sequence": 6,
+    "time": "23:55",
+    "overview": "Rasende eskimo fletter l\u00e6derpersienner",
+    "episode_id": 39
+  },
+  {
+    "sequence": 7,
+    "time": "24:00",
+    "overview": "Engelsk hudl\u00e6ge overtaler J\u00fcrgen Klinsmanns kn\u00e6 til fremragende petting",
+    "episode_id": 39
+  },
+  {
+    "sequence": 1,
+    "time": "23:30",
+    "overview": "Nisse vinder Slaget p\u00e5 Reden med en grankogle af guld",
+    "episode_id": 40
+  },
+  {
+    "sequence": 2,
+    "time": "23:33",
+    "overview": "7000 drengebands fastklemmes i et rucoladrevet solarium",
+    "episode_id": 40
+  },
+  {
+    "sequence": 3,
+    "time": "23:35",
+    "overview": "1 milliard \u00e6rter s\u00e6tter sig fast i Svend Gerts kn\u00e6",
+    "episode_id": 40
+  },
+  {
+    "sequence": 4,
+    "time": "23:40",
+    "overview": "Lille pjevs s\u00f8ger lykken i faldstamme p\u00e5 N\u00f8rrebro",
+    "episode_id": 40
+  },
+  {
+    "sequence": 5,
+    "time": "23:46",
+    "overview": "Heksedoktor finder l\u00e5rbensknogle i Amin Jensens sv\u00e6lg",
+    "episode_id": 40
+  },
+  {
+    "sequence": 6,
+    "time": "23:55",
+    "overview": "Ole Luk\u00f8je druknes og genoplives vha. 8 kg salt",
+    "episode_id": 40
+  },
+  {
+    "sequence": 7,
+    "time": "24:00",
+    "overview": "P\u00e5 gensyn",
+    "episode_id": 40
+  },
+  {
+    "sequence": 1,
+    "time": "24:00",
+    "overview": "Nodestativ fort\u00e6ller om sin tid som spion for Hansest\u00e6derne",
+    "episode_id": 41
+  },
+  {
+    "sequence": 2,
+    "time": "23:57",
+    "overview": "Ny, forbedret toiletrulle afsl\u00f8rer 7-Eleven p\u00e5 Mars",
+    "episode_id": 41
+  },
+  {
+    "sequence": 3,
+    "time": "23:52",
+    "overview": "Hummer tangerer Kirsten Norholts \"Syng L\u00e6ngst\"-rekord",
+    "episode_id": 41
+  },
+  {
+    "sequence": 4,
+    "time": "23:45",
+    "overview": "Livsglad fluesvamp invalideres i h\u00f8jresving",
+    "episode_id": 41
+  },
+  {
+    "sequence": 5,
+    "time": "23:34",
+    "overview": "Fin hund yder f\u00f8rstehj\u00e6lp til Anders Bircow i gasform",
+    "episode_id": 41
+  },
+  {
+    "sequence": 6,
+    "time": "23:31",
+    "overview": "Fr\u00e6k speedmaker brygger en alt for st\u00e6rk Gevalia-kaffe",
+    "episode_id": 41
+  },
+  {
+    "sequence": 7,
+    "time": "23:11",
+    "overview": "Gul papirlap svingpjatter med Kathleen fra Robinson",
+    "episode_id": 41
+  },
+  {
+    "sequence": 1,
+    "time": "23:30",
+    "overview": "Halt hyttesanger forn\u00e6rmes af f\u00e6r\u00f8sk elitesoldat",
+    "episode_id": 42
+  },
+  {
+    "sequence": 2,
+    "time": "23:35",
+    "overview": "Solkonge viser os hvordan man kan panere metaldetektor i rasp",
+    "episode_id": 42
+  },
+  {
+    "sequence": 3,
+    "time": "23:40",
+    "overview": "Sang skjuler str\u00e6kmarcher i tapebasin",
+    "episode_id": 42
+  },
+  {
+    "sequence": 4,
+    "time": "23:45",
+    "overview": "Kondicykel stikker magisk pind i str\u00e5lebehandlet optiker",
+    "episode_id": 42
+  },
+  {
+    "sequence": 5,
+    "time": "23:50",
+    "overview": "Torben Lund kommer og farvel\u00e6gger 19 m h\u00f8j hat af sm\u00f8r",
+    "episode_id": 42
+  },
+  {
+    "sequence": 6,
+    "time": "23:55",
+    "overview": "Sangerinden Freya udfordrer tangokat i kast med betontrug",
+    "episode_id": 42
+  },
+  {
+    "sequence": 7,
+    "time": "24:00",
+    "overview": "Abekat underviser i brugen af Bill Gates' mobiltelefon",
+    "episode_id": 42
+  },
+  {
+    "sequence": 1,
+    "time": "23:30",
+    "overview": "Helleflynder genser Sodastream-forhandler",
+    "episode_id": 43
+  },
+  {
+    "sequence": 2,
+    "time": "23:35",
+    "overview": "L\u00e6bepomade anklager Svenn Skipper for rufferi",
+    "episode_id": 43
+  },
+  {
+    "sequence": 3,
+    "time": "23:40",
+    "overview": "Drengebarn af sukker ler af br\u00e6ndende r\u00e6v",
+    "episode_id": 43
+  },
+  {
+    "sequence": 4,
+    "time": "23:45",
+    "overview": "\u00c6g velsigner mobiltr\u00e6last",
+    "episode_id": 43
+  },
+  {
+    "sequence": 5,
+    "time": "23:50",
+    "overview": "Djengis Khan flirter voldsomt med to S\u00f8s Egelinder",
+    "episode_id": 43
+  },
+  {
+    "sequence": 6,
+    "time": "23:55",
+    "overview": "Thomas Helmig drukner engl\u00e6nder i s\u00f8d oksehalesuppe",
+    "episode_id": 43
+  },
+  {
+    "sequence": 7,
+    "time": "24:00",
+    "overview": "Smeltet penisfuteral underviser i flabet silhuet",
+    "episode_id": 43
+  },
+  {
+    "sequence": 1,
+    "time": "23:30",
+    "overview": "Rosmarinhest kommer og pudrer Finn Laudrup",
+    "episode_id": 44
+  },
+  {
+    "sequence": 2,
+    "time": "23:35",
+    "overview": "Puk Elgaard klistrer l\u00f8g p\u00e5 pumabug",
+    "episode_id": 44
+  },
+  {
+    "sequence": 3,
+    "time": "23:40",
+    "overview": "Vanskabt kuglepen fl\u00f8jter \"No Woman No Cry\"",
+    "episode_id": 44
+  },
+  {
+    "sequence": 4,
+    "time": "23:45",
+    "overview": "Sur hovedbund afliver homomyte",
+    "episode_id": 44
+  },
+  {
+    "sequence": 5,
+    "time": "23:50",
+    "overview": "Freddy Blak kysser mobiltelefon p\u00e5 over 1000 valgplakater",
+    "episode_id": 44
+  },
+  {
+    "sequence": 6,
+    "time": "23:55",
+    "overview": "Dressing med s\u00f8lvsmag k\u00e5rer liv Uldall til supermejerist",
+    "episode_id": 44
+  },
+  {
+    "sequence": 7,
+    "time": "24:00",
+    "overview": "Mati Atti Sarri bygger folkedanser af saft",
+    "episode_id": 44
+  },
+  {
+    "sequence": 1,
+    "time": "23:30",
+    "overview": "Mette Lisby overnatter i K\u00f6lnervand",
+    "episode_id": 45
+  },
+  {
+    "sequence": 2,
+    "time": "23:35",
+    "overview": "Sarah Zobels l\u00e5nerkort kommer og modtager en r\u00e6kke ens kastanjer",
+    "episode_id": 45
+  },
+  {
+    "sequence": 3,
+    "time": "23:40",
+    "overview": "Glutenfri luder angriber klarinetspiller",
+    "episode_id": 45
+  },
+  {
+    "sequence": 4,
+    "time": "23:45",
+    "overview": "Kassetteb\u00e5nd med Leeds United-lyde forurener altan",
+    "episode_id": 45
+  },
+  {
+    "sequence": 5,
+    "time": "23:50",
+    "overview": "Orlogskaptajn v\u00e6lter samerpyramiden",
+    "episode_id": 45
+  },
+  {
+    "sequence": 6,
+    "time": "23:55",
+    "overview": "5-\u00e5rig invalidepensionist bed\u00e6kker valgurne",
+    "episode_id": 45
+  },
+  {
+    "sequence": 7,
+    "time": "24:00",
+    "overview": "Ellen Hillings\u00f8e pr\u00f8vesmager t\u00e6t b\u00f8gehegn",
+    "episode_id": 45
+  },
+  {
+    "sequence": 1,
+    "time": "23:31",
+    "overview": "Harsk filttrug vinder kapsejlads",
+    "episode_id": 46
+  },
+  {
+    "sequence": 2,
+    "time": "23:36",
+    "overview": "Nykogt mokkasin f\u00e5r det fulde ansvar for Rebild Bakker",
+    "episode_id": 46
+  },
+  {
+    "sequence": 3,
+    "time": "23:40",
+    "overview": "Jens Okking snitter vellignende rickshaw",
+    "episode_id": 46
+  },
+  {
+    "sequence": 4,
+    "time": "23:42",
+    "overview": "Sinai-halv\u00f8en l\u00e6gger ryg til fri dressur",
+    "episode_id": 46
+  },
+  {
+    "sequence": 5,
+    "time": "23:48",
+    "overview": "Gr\u00e5spr\u00e6ngt diskor\u00e6v solgt som mosaik i flydende form",
+    "episode_id": 46
+  },
+  {
+    "sequence": 6,
+    "time": "23:56",
+    "overview": "Seismograf anretter sandt blodbad i hj\u00f8rnesoda",
+    "episode_id": 46
+  },
+  {
+    "sequence": 7,
+    "time": "23:58",
+    "overview": "Karlsvognen nedl\u00e6gges som stjernebillede og erstattes af motorf\u00e6rgen Roms\u00f8",
+    "episode_id": 46
+  },
+  {
+    "sequence": 1,
+    "time": "23:30",
+    "overview": "John Iversen slikker Professor Tribini i mellemk\u00f8det",
+    "episode_id": 47
+  },
+  {
+    "sequence": 2,
+    "time": "23:33",
+    "overview": "Amfetamingiraf bryder amerikansk flyveforbud over polerne",
+    "episode_id": 47
+  },
+  {
+    "sequence": 3,
+    "time": "23:37",
+    "overview": "Gedehams kanonerer kongelig skuespiller igennem v\u00e6g af vat",
+    "episode_id": 47
+  },
+  {
+    "sequence": 4,
+    "time": "23:40",
+    "overview": "Lagkage i ny dansk pornofilm i tr\u00e6 (Bananskr\u00e6l spiller hovedrollen som den utr\u00e6ttelige negerh\u00f8vding \"Nudo\")",
+    "episode_id": 47
+  },
+  {
+    "sequence": 5,
+    "time": "23:41",
+    "overview": "Kn\u00e6skaller i Arne Melchior-design vinder buste af organer",
+    "episode_id": 47
+  },
+  {
+    "sequence": 6,
+    "time": "23:53",
+    "overview": "L\u00e6kkersultent askeb\u00e6ger skuffer f\u00e6lt i d\u00f8dsdrom",
+    "episode_id": 47
+  },
+  {
+    "sequence": 7,
+    "time": "24:00",
+    "overview": "Hakket sok afbryder h\u00f8stbal med k\u00f8nsl\u00f8s knirken",
+    "episode_id": 47
+  },
+  {
+    "sequence": 1,
+    "time": "23.30",
+    "overview": "Superkartoffel l\u00e6gger nazi-\u00e6g p\u00e5 Thomas Ejes l\u00e6nd",
+    "episode_id": 48
+  },
+  {
+    "sequence": 2,
+    "time": "23.33",
+    "overview": "Jumborejer duellerer i Julemandshavet",
+    "episode_id": 48
+  },
+  {
+    "sequence": 3,
+    "time": "23.34",
+    "overview": "Skingert \"Kykkeli-kyy\" s\u00e6tter vemodet skakmat",
+    "episode_id": 48
+  },
+  {
+    "sequence": 4,
+    "time": "23.40",
+    "overview": "Emigrant affugter sjofel panda",
+    "episode_id": 48
+  },
+  {
+    "sequence": 5,
+    "time": "23.46",
+    "overview": "Pia Christmas M\u00f8ller fjernstyrer fjerlette klunker",
+    "episode_id": 48
+  },
+  {
+    "sequence": 6,
+    "time": "23.50",
+    "overview": "10 \u00e5rs-jubil\u00e6um for VAG'ere afholdes i Brunsh\u00e5b Forsamlingshus",
+    "episode_id": 48
+  },
+  {
+    "sequence": 7,
+    "time": "23.51",
+    "overview": "Mejerist steger speedwaymont\u00f8r",
+    "episode_id": 48
+  },
+  {
+    "sequence": 8,
+    "time": "23.55",
+    "overview": "Elegant muslim h\u00e5ndmaler M\u00fcnchen",
+    "episode_id": 48
+  },
+  {
+    "sequence": 9,
+    "time": "24.00",
+    "overview": "Falsk vejrprofet forsvundet i latexvirvar",
+    "episode_id": 48
+  }
+]
