@@ -25,6 +25,7 @@ def seed_database():
     seed_character_actor()
     seed_episodes()
     seed_character_episode()
+    seed_program_overviews()
 
 
 def seed_characters():
@@ -129,6 +130,32 @@ def seed_episodes():
         """
 
         cur.executemany(sql, episodes)
+        con.commit()
+
+    con.close()
+
+
+def seed_program_overviews():
+    con = sqlite3.connect("mandril.db")
+    cur = con.cursor()
+
+    # Check if database has not been seeded
+    sql = "SELECT * FROM program_overviews"
+
+    res = cur.execute(sql)
+
+    if len(res.fetchall()) == 0:
+        cur_dir = os.getcwd()
+
+        with open(os.path.join(cur_dir, "data", "program_overviews.json")) as f:
+            overviews = json.loads(f.read())
+
+        sql = """
+          INSERT INTO program_overviews
+          VALUES (:sequence, :time, :overview, :episode_id)
+        """
+
+        cur.executemany(sql, overviews)
         con.commit()
 
     con.close()

@@ -36,3 +36,12 @@ CREATE TABLE IF NOT EXISTS character_episode
   FOREIGN KEY (character_id) REFERENCES characters(character_id),
   FOREIGN KEY (episode_id) REFERENCES episodes(episode_id)
 );
+
+CREATE TABLE IF NOT EXISTS program_overviews
+(
+  sequence INTEGER NOT NULL,
+  overview_time TEXT NOT NULL,
+  overview TEXT NOT NULL,
+  episode_id INTEGER NOT NULL,
+  FOREIGN KEY (episode_id) REFERENCES episodes(episode_id)
+);
